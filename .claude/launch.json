@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ss-upfitters",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-l", "3456", "/tmp/s-s-upfitters"],
+      "port": 3456
+    }
+  ]
+}
